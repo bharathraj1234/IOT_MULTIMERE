@@ -1,4 +1,4 @@
-# IOT_MULTIMERE
+# IOT_MULTIMETER
 IoT-enabled current &amp; voltage monitoring on any screen.
 
 # IoT Energy Meter with Blynk and INA219
